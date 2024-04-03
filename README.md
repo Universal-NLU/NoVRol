@@ -6,6 +6,7 @@ The data are in a csv file with the following columns: `lemma`, `Norval_frame`, 
 
 The grammatical roles are drawn from the following inventory, mostly based on the English VerbNet inventory, with some minor modifications described in the paper.
 
+|                |                |                |             |
 |___             |___ 	  	  |___             |___          |   
 |"adjective"     |"adverb"        |"agent"         |"asset"      |        
 |"attribute"     |"beneficiary"   |"cause"         |"co-agent"   |     
