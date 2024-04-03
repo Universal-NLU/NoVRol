@@ -8,13 +8,13 @@ The grammatical roles are drawn from the following inventory, mostly based on th
 
 |                |                |                |             |
 |___|___|___|___|   
-|"adjective"     |"adverb"        |"agent"         |"asset"      |        
-|"attribute"     |"beneficiary"   |"cause"         |"co-agent"   |     
-|"co-patient"    |"co-theme"      |"destination"   |"direction"  |    
-|"duration"      |"experiencer"   |"final_time"    |"formal"     |   
-|"goal"          |"initial_time"  |"instrument"    |"location"   |  
-|"material"      |"null-role"     |"orientation"   |"patient"    | 
-|"patient-theme" |"pivot"         |"product"       |"recipient"  |
-|"result"        |"source"        |"stimulus"      |"theme"      |
-|"time"          |"topic"         |"trajectory"    |"value"      |
+| adjective     | adverb        | agent         | asset      |        
+| attribute     | beneficiary   | cause         | co-agent   |     
+| co-patient    | co-theme      | destination   | direction  |    
+| duration      | experiencer   | final_time    | formal     |   
+| goal          | initial_time  | instrument    | location   |  
+| material      | null-role     | orientation   | patient    | 
+| patient-theme | pivot         | product       | recipient  |
+| result        | source        | stimulus      | theme      |
+| time          | topic         | trajectory    | value      |
 
