@@ -18,3 +18,4 @@ The grammatical roles are drawn from the following inventory, mostly based on th
 | result        | source        | stimulus      | theme      |
 | time          | topic         | trajectory    | value      |
 
+The data are available under the licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
